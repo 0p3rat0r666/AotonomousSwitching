@@ -6,7 +6,7 @@ brain.screen.set_pen_color(0x5c8c5c)
 brain.screen.draw_rectangle(3, 3, 476, 268)
 brain.screen.draw_rectangle(18, 18, 444, 236)
 brain.screen.set_pen_width(1)
-brain.screen.draw_rectangle()
+brain.screen.draw_rectangle(21, 21, 438, 230)
 # 5c8c5c
 # draw computer face to brain screen when function is called(be sure to move into function block later)
 # screen resolution of 480x272
